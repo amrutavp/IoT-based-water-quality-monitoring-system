@@ -1,0 +1,1 @@
+Designed a real-time water quality monitoring system utilizing integrated sensors in the water body, processed data with Arduino, and transmitted it to ThingSpeak via Wi-Fi. Replaces traditional manual sample collection and lab testing, offering immediate assessment through various sensors. Allows data transmission to smartphones or PCs for in-depth analysis.
